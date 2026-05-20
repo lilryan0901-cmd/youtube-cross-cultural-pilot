@@ -1,1 +1,7 @@
-
+platform,channel_name,channel_url,channel_id,handle,official_status,official_evidence,inclusion_reason,pilot_include
+iQIYI,iQIYI 爱奇艺,https://www.youtube.com/@iQIYIofficial,,@iQIYIofficial,pending,"频道名含 iQIYI / Get the iQIYI APP；需人工核验 About 页与外链","主频道候选",1
+iQIYI,iQIYI English,https://www.youtube.com/channel/UCZrZaZM9IfX-uB-9yWf5gfQ,UCZrZaZM9IfX-uB-9yWf5gfQ,,pending,"频道名含 iQIYI English / Get the iQIYI APP；需人工核验 About 页与外链","英文频道候选",1
+iQIYI,iQIYI Short Drama,https://www.youtube.com/@iQIYIShortDrama,,@iQIYIShortDrama,pending,"频道简介称 official iQIYI Short Drama Channel；需人工核验 Shorts 比例","短剧频道候选，可能只作附录",1
+WeTV,WeTV English,https://www.youtube.com/@WeTVEnglish,,@WeTVEnglish,pending,"频道名含 WeTV English / Get the WeTV APP；需人工核验 About 页与外链","英文频道候选",1
+WeTV,Tencent Video Drama,https://www.youtube.com/@TencentVideoDrama,,@TencentVideoDrama,pending,"频道名含 Tencent Video-Drama / Get the WeTV APP；需人工核验与 WeTV 关系","剧集频道候选",1
+WeTV,Tencent Video Mini Drama,https://www.youtube.com/@TencentVideoMiniDrama,,@TencentVideoMiniDrama,pending,"频道名含 Tencent Video Mini Drama / Get the WeTV APP；需人工核验 Shorts 比例","短剧频道候选，可能只作附录",1
